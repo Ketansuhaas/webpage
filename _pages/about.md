@@ -26,3 +26,6 @@ humanlike cognition in Large Language Models (LLMs).
 Outside of research, I love playing the piano, painting,
 speed-cubing, powerlifting, tennis, sprinting, and
 counterstrike.
+
+
+## News
