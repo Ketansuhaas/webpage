@@ -11,13 +11,13 @@ redirect_from:
 
 I'm currently a **Staff Scientist** at the **Kolachalama Lab** at Boston University and an **AI Engineer** at **Clairyon**, a healthcare startup focused on building agentic AI systems for hospitals.
 
-Research:
+#### Research:
 * Active Feature Acquisition, which combines reinforcement learning, information theory, and explainable AI.
 * Improving long-prompt alignment in diffusion models.
 * Enhancing transformer robustness to missing features.
 * Exploring humanlike cognition in large language models (LLMs).
 
-Industry:
+#### Industry:
 * Building and scaling agentic AI systems.
 * Deploying AI solutions on cloud platforms.
 * Automating internal workflows using generative AI agents.
