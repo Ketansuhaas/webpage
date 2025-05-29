@@ -11,13 +11,13 @@ redirect_from:
 
 I'm currently a **Staff Scientist** at the **Kolachalama Lab** at Boston University and an **AI Engineer** at **Clairyon**, a healthcare startup focused on building agentic AI systems for hospitals.
 
-#### Research:
+### Research:
 * Active Feature Acquisition, which combines reinforcement learning, information theory, and explainable AI.
 * Improving long-prompt alignment in diffusion models.
 * Enhancing transformer robustness to missing features.
 * Exploring humanlike cognition in large language models (LLMs).
 
-#### Industry:
+### Industry:
 * Building and scaling agentic AI systems.
 * Deploying AI solutions on cloud platforms.
 * Automating internal workflows using generative AI agents.
@@ -25,17 +25,31 @@ I'm currently a **Staff Scientist** at the **Kolachalama Lab** at Boston Univers
 Outside of research, I enjoy playing the piano, painting, speed-cubing, powerlifting, tennis, sprinting, and playing Counter-Strike.
 
 ---
+Here’s your updated "News" section, now categorized by **month**, making it easier to scan chronologically:
 
-### 🗞️ News
+---
 
-* **May 2025**: Our *PNAS* article featured on multiple news sites!
-* **May 2025**: Started as AI Engineer at Clairyon and Staff Scientist at Kolachalama Lab
-* **May 2025**: Paper accepted at **ICML 2025**
-* **April 2025**: Article published in **PNAS**
-* **April 2025**: Workshop paper accepted at **CVPR 2025**
-* **April 2025**: Successfully defended my Master’s thesis
-* **May 2024**: Joined the **Banaji Implicit Social Cognition Lab** as a researcher
-* **Sept 2023**: Joined the **Kolachalama Lab** as a graduate researcher
+## 🗞️ News
+
+### **May 2025**
+
+* Our *PNAS* article featured on multiple news sites!
+* Started as **AI Engineer** at Clairyon and **Staff Scientist** at Kolachalama Lab
+* Paper accepted at **ICML 2025**
+
+### **April 2025**
+
+* Article published in **PNAS**
+* Workshop paper accepted at **CVPR 2025**
+* Successfully defended my Master’s thesis
+
+### **May 2024**
+
+* Joined the **Banaji Implicit Social Cognition Lab** as a researcher
+
+### **September 2023**
+
+* Joined the **Kolachalama Lab** as a graduate researcher
 
 ---
 
