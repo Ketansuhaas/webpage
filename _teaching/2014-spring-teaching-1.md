@@ -1,7 +1,7 @@
 ---
 title: "DS320: Algorithms of Data Science"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course (spring 2024)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faculty of Computing and Data Sciences, Boston University"
 date: 2024-01-22
