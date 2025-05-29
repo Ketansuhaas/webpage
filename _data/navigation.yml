@@ -14,16 +14,13 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "News"
-    url: /talks/   
-
   - title: "Teaching"
     url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Press"
     url: /year-archive/
     
   - title: "CV"
