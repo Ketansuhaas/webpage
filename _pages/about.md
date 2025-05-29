@@ -13,7 +13,6 @@ with a master’s in Artificial Intelligence and previously
 completed my bachelor’s in Electrical Engineering from the
 Indian Institute of Technology (IIT) Roorkee.
 
-
 My research fundamentally covers learning with limited
 data. More specifically, I worked on Active Feature
 Acquisition, a problem that revolves around reinforcement

@@ -336,13 +336,13 @@
 .comment__avatar {
   width: 40px;
   height: 40px;
-  border-radius: 50%;
+  border-radius: 0%;
 
   @include breakpoint($large) {
     width: 80px;
     height: 80px;
-    padding: 5px;
-    border: 1px solid var(--global-border-color);
+    padding: 0px;
+    border: 0px solid var(--global-border-color);
   }
 }
 
