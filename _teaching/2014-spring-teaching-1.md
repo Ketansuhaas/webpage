@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "DS320: Algorithms of Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Faculty of Computing and Data Sciences, Boston University"
+date: 2024-01-22
+location: "Boston, MA, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

@@ -2,7 +2,7 @@
 title: "Active feature acquisition via explainability-driven ranking"
 collection: publications
 category: conference
-permalink: /publication/icml.md
+permalink: /publications/icml
 excerpt: 'Utilizing XAI-based feature rankings for active feature acquisition'
 date: 2025-07-12
 venue: 'International conference on machine learning'

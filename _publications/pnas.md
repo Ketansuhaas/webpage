@@ -2,7 +2,7 @@
 title: "Kernels of Selfhood: GPT-4o shows humanlike patterns of cognitive consistency moderated by free choice"
 collection: publications
 category: journal
-permalink: /publication/pnas.md
+permalink: /publications/pnas
 excerpt: 'Discovered strong patterns in LLMs that resemble an aspect of deep human cognition'
 date: 2025-04-11
 venue: 'Proceedings of the national academy of sciences'

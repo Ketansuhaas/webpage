@@ -17,8 +17,8 @@ main:
   - title: ""
     url: /talks/   
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -26,8 +26,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
