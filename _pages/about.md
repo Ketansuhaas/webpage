@@ -25,9 +25,6 @@ I'm currently a **Staff Scientist** at the **Kolachalama Lab** at Boston Univers
 Outside of research, I enjoy playing the piano, painting, speed-cubing, powerlifting, tennis, sprinting, and playing Counter-Strike.
 
 ---
-Here’s your updated "News" section, now categorized by **month**, making it easier to scan chronologically:
-
----
 
 # 🗞️ News
 
