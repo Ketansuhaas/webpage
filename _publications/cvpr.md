@@ -1,7 +1,7 @@
 ---
 title: "Progressive Prompt Detailing for Improved Alignment in Text-to-Image Generative Models"
 collection: publications
-category: Workshop
+category: manuscripts
 permalink: /publication/cvpr
 excerpt: 'Improving diffusion models for long, complex prompts'
 date: 2025-07-12
