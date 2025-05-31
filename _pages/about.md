@@ -22,7 +22,7 @@ I'm currently a **Staff Scientist** at the **Kolachalama Lab** at Boston Univers
 * Deploying AI solutions on cloud platforms.
 * Automating internal workflows using generative AI agents.
 
-Outside of research, I enjoy playing the piano, painting, speed-cubing, powerlifting, tennis, sprinting, and playing Counter-Strike.
+Outside of work, I enjoy playing the piano, painting, speed-cubing, powerlifting, tennis, sprinting, and playing Counter-Strike.
 
 ---
 
