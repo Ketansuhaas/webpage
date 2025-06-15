@@ -33,6 +33,7 @@ Outside of work, I enjoy playing the piano, painting, speed-cubing, powerlifting
 * Our *PNAS* article featured on multiple news sites!
 * Started as **AI Engineer** at Clairyon and **Staff Scientist** at Kolachalama Lab
 * Paper accepted at **ICML 2025**
+* Selected for **oral presentation** at CVPR 2025
 
 ### **April 2025**
 
