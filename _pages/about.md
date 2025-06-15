@@ -28,6 +28,10 @@ Outside of work, I enjoy playing the piano, painting, speed-cubing, powerlifting
 
 # 🗞️ News
 
+### **June 2025**
+
+* Presented my talk and poster at CVPR 2025 ([link](https://ketansuhaas.github.io/webpage/talks/2013-03-01-tutorial-1))
+
 ### **May 2025**
 
 * Our *PNAS* article featured on multiple news sites!
