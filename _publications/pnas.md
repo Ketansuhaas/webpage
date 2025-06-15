@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/pnas
 excerpt: ''
 date: 2025-04-11
-venue: 'Proceedings of the national academy of sciences'
+venue: 'Proceedings of the national academy of sciences (PNAS)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

@@ -5,7 +5,7 @@ category: books
 permalink: /publication/cvpr
 excerpt: 'Selected for oral presentation at AI4CC and poster presentation at GMCV'
 date: 2025-07-12
-venue: 'Computer vision and pattern recognition'
+venue: 'Computer vision and pattern recognition (CVPR)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'

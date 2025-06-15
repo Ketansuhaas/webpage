@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/icml
 excerpt: ''
 date: 2025-07-12
-venue: 'International conference on machine learning'
+venue: 'International conference on machine learning (ICML)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
