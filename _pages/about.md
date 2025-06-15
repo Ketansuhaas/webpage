@@ -9,7 +9,7 @@ redirect_from:
 
 **Hi, I’m Ketan.** I recently earned my Master’s in Artificial Intelligence from Boston University, where I was advised by Dr. Vijaya Kolachalama. Before that, I completed my Bachelor’s in Electrical Engineering at the Indian Institute of Technology (IIT) Roorkee.
 
-I'm currently a **Staff Scientist** at the **Kolachalama Lab** at Boston University and an **AI Engineer** at **Clairyon**, a healthcare startup focused on building agentic AI systems for hospitals.
+I'm currently a **Staff Scientist** at the [**Kolachalama Lab**](https://vkola-lab.github.io/) at Boston University and an **AI Engineer** at [**Clairyon**](https://www.clairyon.com/), a healthcare startup focused on building agentic AI systems for hospitals.
 
 ## Research:
 * Active Feature Acquisition, which combines reinforcement learning, information theory, and explainable AI.
