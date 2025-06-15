@@ -7,14 +7,6 @@ venue: "Faculty of Computing and Data Sciences, Boston University"
 date: 2024-01-22
 location: "Boston, MA, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Developed a customized curriculum to strengthen students' competitive programming skills.
+- Led discussions, facilitated office hours, evaluated assignments, and provided support for student inquiries both online and offline.
+- Designed and organized supplementary assignments and interactive sessions to enhance student learning.

@@ -13,7 +13,7 @@ Education
 ======
 * M.S. in Artificial Intelligence, Boston University, 2025  
   * GPA: 3.96/4.00  
-  * Thesis Track | Advisor: Dr. Vijaya Kolachalama  
+  * Thesis Track (Advisor: Dr. Vijaya B. Kolachalama) 
 * B.Tech. in Electrical Engineering, Indian Institute of Technology Roorkee, 2023  
   * CGPA: 8.65/10.00
 
@@ -84,7 +84,7 @@ Honors and Achievements
 * ICPC Asia Regionals – Represented IIT Roorkee, 2021 & 2022  
 * JEE Advanced 2019 (AIR 1640) – FIITJEE Award (INR 100,000)  
 * JEE Main 2019 (AIR 1390)  
-* KVPY Fellow (AIR 1236), 2019 – Govt. of India Scholarship  
+* KVPY Fellow (AIR 1237), 2019 – Govt. of India Scholarship  
 * Indian National Physics Olympiad – State Rank 7, 2019
 
 Projects
