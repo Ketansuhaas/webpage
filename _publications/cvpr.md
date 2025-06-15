@@ -3,7 +3,7 @@ title: "Progressive Prompt Detailing for Improved Alignment in Text-to-Image Gen
 collection: publications
 category: books
 permalink: /publication/cvpr
-excerpt: 'Selected for oral presentation'
+excerpt: 'Selected for oral presentation at AI4CC and poster presentation at GMCV'
 date: 2025-07-12
 venue: 'Computer vision and pattern recognition'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

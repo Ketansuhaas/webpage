@@ -3,7 +3,7 @@ title: "Kernels of Selfhood: GPT-4o shows humanlike patterns of cognitive consis
 collection: publications
 category: manuscripts
 permalink: /publication/pnas
-excerpt: 'Discovered strong patterns in LLMs that resemble an aspect of deep human cognition'
+excerpt: ''
 date: 2025-04-11
 venue: 'Proceedings of the national academy of sciences'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
