@@ -13,14 +13,16 @@ I'm currently a **Staff Scientist** at the [**Kolachalama Lab**](https://vkola-l
 
 ## Research:
 * Active Feature Acquisition, which combines reinforcement learning, information theory, and explainable AI.
-* Improving long-prompt alignment in diffusion models.
+* Improving long-prompt alignment in text-to-image diffusion models.
 * Enhancing transformer robustness to missing features.
 * Exploring humanlike cognition in large language models (LLMs).
+* Vision-language models for Neuropathology
+* Multimodal foundation model for Neurology
 
 ## Industry:
-* Building and scaling agentic AI systems.
+* Building and scaling agentic AI systems at scale (for clinical care)
 * Deploying AI solutions on cloud platforms.
-* Automating internal workflows using generative AI agents.
+* Automating internal workflows using AI agents.
 
 Outside of work, I enjoy playing the piano, painting, speed-cubing, powerlifting, tennis, sprinting, and playing Counter-Strike.
 
