@@ -11,14 +11,24 @@ redirect_from:
 
 I'm currently a **Staff Scientist** at the [**Kolachalama Lab**](https://vkola-lab.github.io/) at Boston University and an **AI Engineer** at [**Clairyon**](https://www.clairyon.com/), a healthcare startup focused on building agentic AI systems for hospitals.
 
-## Research:
-* Multi-agent systems for scientific discovery & clinical care
-* Vision-language models for neuropathology
-* Multimodal foundation model for neurology
-* Active Feature Acquisition, which combines reinforcement learning, information theory, and explainable AI.
-* Improving long-prompt alignment in text-to-image diffusion models.
-* Enhancing transformer robustness to missing features.
-* Humanlike cognition in large language models (LLMs).
+## 🧑‍🔬 Research Interests
+
+**Broad Areas:**
+- Multi-agent systems for advancing scientific discovery
+- Vision-language models in neuropathology and biomedical imaging
+- Multimodal foundation models
+- Active Feature Acquisition strategies
+- Aligning text-to-image generative models
+- Investigating human-like cognition and reasoning in LLMs
+
+**Core Technical Domains:**
+- Reinforcement Learning and sequential decision-making
+- Information Theory and uncertainty quantification
+- Explainable and interpretable AI
+- Active Learning methodologies
+- Diffusion models for generative tasks
+- Graph Neural Networks and relational modeling
+- Large Language Models: architectures, alignment, and applications
 
 
 ## Industry:
