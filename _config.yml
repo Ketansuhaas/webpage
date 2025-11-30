@@ -83,7 +83,9 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'  
   books:
-    title: 'Workshop Papers'  
+    title: 'Workshop Papers'
+  preprints:
+    title: 'Pre-Prints'  
 
 
 # Site Settings
