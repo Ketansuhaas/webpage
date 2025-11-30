@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hi, I'm Ketan.** I'm an AI researcher and engineer passionate about advancing machine learning and artificial intelligence to solve real-world problems in healthcare and scientific discovery. I recently earned my Master's in Artificial Intelligence from Boston University, where I was advised by Dr. Vijaya Kolachalama. Before that, I completed my Bachelor's in Electrical Engineering at the Indian Institute of Technology (IIT) Roorkee.
+**Hi, I'm Ketan.** I'm an AI researcher and engineer passionate about advancing machine learning and artificial intelligence to solve real-world problems in healthcare and scientific discovery. I recently earned my Master's in Artificial Intelligence from Boston University, where I was advised by [Dr. Vijaya Kolachalama](https://scholar.google.com/citations?user=YgjYrrcAAAAJ&hl=en). Before that, I completed my Bachelor's in Electrical Engineering at the Indian Institute of Technology (IIT) Roorkee.
 
 I'm currently a **Staff Scientist** at the [**Kolachalama Lab**](https://vkola-lab.github.io/) at Boston University, where I work on developing AI systems for biomedical applications, and an **AI Engineer** at [**Clairyon**](https://www.clairyon.com/), a healthcare startup focused on building agentic AI systems for hospitals. My research spans multiple domains including active learning, reinforcement learning, explainable AI, and multimodal foundation models, with applications in neuropathology, biomedical imaging, and cognitive science.
 
