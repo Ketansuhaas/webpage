@@ -11,7 +11,7 @@ redirect_from:
 
 I'm currently a **Staff Scientist** at the [**Kolachalama Lab**](https://vkola-lab.github.io/) at Boston University, where I work on developing AI systems for biomedical applications, and an **AI Engineer** at [**Clairyon**](https://www.clairyon.com/), a healthcare startup focused on building agentic AI systems for hospitals. My research spans multiple domains including active learning, reinforcement learning, and multimodality.
 
-Outside of work, I enjoy playing the piano, reading about cosmology & philosophy, painting and singing. I have also competed in and won awards in national painting competitions, speed-cubing, powerlifting, tennis, sprinting, Counter-Strike, and Valorant.
+Outside of work, I enjoy playing the piano, reading about cosmology & philosophy, painting and singing. I have also competed in and won awards in national painting competitions, speed-cubing, powerlifting, tennis, short-distance running, Counter-Strike, and Valorant.
 
 ---
 
