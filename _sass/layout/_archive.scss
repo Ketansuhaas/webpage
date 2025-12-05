@@ -243,3 +243,39 @@
     }
   }
 }
+
+
+/*
+   Publications - Smaller font sizes
+   ========================================================================== */
+
+/* Target publications page specifically - more compact display */
+.archive .list__item .archive__item {
+  /* Reduce spacing between publication items */
+  margin-bottom: 0.75em;
+  
+  /* Make publication titles smaller */
+  .archive__item-title {
+    font-size: $type-size-5; // ~16px instead of default h2 size (~20px)
+    margin-bottom: 0.15em;
+    line-height: 1.3;
+  }
+  
+  /* Make venue and citation text smaller */
+  p {
+    font-size: 0.875em; // ~14px (from base 16px)
+    line-height: 1.4;
+    margin-bottom: 0.4em;
+  }
+  
+  /* Make citation links smaller */
+  a {
+    font-size: inherit;
+  }
+  
+  /* Reduce excerpt size if present */
+  .archive__item-excerpt {
+    font-size: 0.8em; // ~12.8px
+    line-height: 1.4;
+  }
+}
