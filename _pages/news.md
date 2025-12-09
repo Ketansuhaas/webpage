@@ -4,8 +4,6 @@ title: "News"
 author_profile: true
 ---
 
-## 🗞️ News
-
 ### **December 2025**
 * New preprint on medRxiv: ["Agentic AI for automated hypothesis testing in Alzheimer's disease and related dementias"]({{ site.baseurl }}/publication/agentic-ai-alzheimers) (under review at Alzheimer's & Dementia) - our work on multi-agent systems for scientific discovery
 

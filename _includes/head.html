@@ -13,6 +13,20 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+  // Set default theme to light mode immediately (before page renders)
+  // This prevents flash of dark mode when no user preference exists
+  (function() {
+    const userPreference = localStorage.getItem("theme");
+    if (!userPreference) {
+      // No user preference - default to light mode
+      document.documentElement.removeAttribute("data-theme");
+    } else if (userPreference === "dark") {
+      document.documentElement.setAttribute("data-theme", "dark");
+    } else {
+      document.documentElement.removeAttribute("data-theme");
+    }
+  })();
 </script>
 
 <!-- For all browsers -->

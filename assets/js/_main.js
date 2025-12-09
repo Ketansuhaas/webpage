@@ -10,21 +10,30 @@ $(document).ready(function () {
 
   // Set the theme on page load or when explicitly called
   var setTheme = function (theme) {
-    // If no theme is explicitly provided and no user preference exists, default to light
+    // If no theme is explicitly provided, check user preference, otherwise default to light
     const userPreference = localStorage.getItem("theme");
-    const use_theme =
-      theme ||
-      (userPreference ? userPreference : 'light');
+    let use_theme;
+    
+    if (theme) {
+      use_theme = theme;
+    } else if (userPreference) {
+      use_theme = userPreference;
+    } else {
+      // Explicitly default to light mode when no preference exists
+      use_theme = 'light';
+    }
 
     if (use_theme === "dark") {
       $("html").attr("data-theme", "dark");
       $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
-    } else if (use_theme === "light") {
+    } else {
+      // Default to light mode - remove any dark theme attribute
       $("html").removeAttr("data-theme");
       $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
     }
   };
 
+  // Set theme on page load - this will default to light if no preference exists
   setTheme();
 
   // if user hasn't chosen a theme, default to light mode (don't follow OS changes)
