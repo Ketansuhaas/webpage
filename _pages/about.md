@@ -30,21 +30,6 @@ redirect_from:
     flex-direction: column;
   }
 }
-
-.page__content {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-.page__inner-wrap {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-.page {
-  width: 100% !important;
-  max-width: 100% !important;
-}
 </style>
 
 <div class="about-container" markdown="1">
