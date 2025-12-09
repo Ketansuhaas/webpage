@@ -10,11 +10,11 @@ $(document).ready(function () {
 
   // Set the theme on page load or when explicitly called
   var setTheme = function (theme) {
+    // If no theme is explicitly provided and no user preference exists, default to light
+    const userPreference = localStorage.getItem("theme");
     const use_theme =
       theme ||
-      localStorage.getItem("theme") ||
-      $("html").attr("data-theme") ||
-      'light';
+      (userPreference ? userPreference : 'light');
 
     if (use_theme === "dark") {
       $("html").attr("data-theme", "dark");
