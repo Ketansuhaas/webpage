@@ -2,6 +2,7 @@
 permalink: /news/
 title: "News"
 author_profile: true
+hide_title: true
 ---
 
 ### **December 2025**

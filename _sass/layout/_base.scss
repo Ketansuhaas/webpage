@@ -11,6 +11,7 @@ body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  /* Background image set inline in default.html layout to handle baseurl */
 
   margin: 0;
   padding: $masthead-height 0 0;
