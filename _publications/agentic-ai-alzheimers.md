@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/agentic-ai-alzheimers
 excerpt: ''
-date: 2025-01-01
+date: 2025-12-04
 venue: "Alzheimer's & Dementia (under review)"
 paperurl: 'https://www.medrxiv.org/content/early/2025/12/04/2025.12.02.25341517'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

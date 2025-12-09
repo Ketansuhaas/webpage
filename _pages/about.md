@@ -17,6 +17,9 @@ Outside of work, I enjoy playing the piano, reading about cosmology & philosophy
 
 # 🗞️ News
 
+### **December 2025**
+* New preprint on medRxiv: ["Agentic AI for automated hypothesis testing in Alzheimer's disease and related dementias"]({{ site.baseurl }}/publication/agentic-ai-alzheimers) (under review at Alzheimer's & Dementia) - our work on multi-agent systems for scientific discovery
+
 ### **October 2025**
 * New preprint: ["Thinking About Thinking: Evaluating Reasoning in Post-Trained Language Models"]({{ site.baseurl }}/publication/thinking-about-thinking) (to be submitted to ACL) now on arXiv
 
